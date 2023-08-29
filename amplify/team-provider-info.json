@@ -14,6 +14,9 @@
     "categories": {
       "auth": {
         "orbitsapp1411beb28": {}
+      },
+      "api": {
+        "orbitsapp1": {}
       }
     }
   }
